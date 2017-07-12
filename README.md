@@ -1,8 +1,6 @@
 # pdfScope
 PDFScope is a wxPython GUI create for malware analysis of PDF files.
-
-
-wxPython GUI for use with Didier Stevens PDFiD.py and pdf-parser.py
+PDFScope is a frontend for use with Didier Stevens PDFiD.py and pdf-parser.py
 
 PDFScope is a wxPython GUI create for use with Didier Stevens PDFiD.pf and pdf-parser.py (http://blog.didierstevens.com/programs/pdf-tools/). PDFiD.py and pdf-parser.py are Python scripts used to triage potentially malicious PDF files. PDFScope merely exposes some of the more common (and awesome) functionality of Diders scripts.
 
